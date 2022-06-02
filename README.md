@@ -13,7 +13,7 @@ Python - version 3.10.4
     
 MongoDB Compass - version 1.31.2
   
-VSCode - version 0.1
+Pymongo - version 3.4.0
 
 # Features
 
