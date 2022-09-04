@@ -39,6 +39,6 @@ To add new changes: git add
 To commit changes: git commit -m “Message”
 To push changes to GitHub: git push origin Name
 To view info: git log
-
+To check staging: git status
 
     
