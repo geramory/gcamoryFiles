@@ -4,8 +4,7 @@
 
 This application uses a CLI to engage the user to create either a CD or deposit
 account. A specific bonus is applied to an account of the user's choice an award
-of $10000 is applied for CD and $500 is applied to checking. The user can then
-view an updated bank statement with the amount deposited plus the specified bonus.
+of x dollars is applied for CD and x+ dollars is applied to checking. The user can then view an updated bank statement with the amount deposited plus the specified bonus.
 
 # Technologies used
 
